@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Andrey Matveev <ra1ze.matveev@yandex.ru>",]
 readme = "README.md"
-packages = [{include = "welcome_project"}]
 
 
 [tool.poetry.dependencies]
