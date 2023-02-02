@@ -111,3 +111,13 @@
                     }
                 }
 ```
+
+## Результат
+Логика реализована в модуле `parse_and_collect_data.py`
+
+Запуск тестов:
+
+```bash
+poetry install
+pytest test.py
+```
